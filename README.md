@@ -1,6 +1,17 @@
 # telco-customer-churn-adaboost
 # Telco Customer Churn Prediction Using AdaBoost
+# MINOR PROJECT
+## Telco Customer Churn Prediction Using AdaBoost
 
+**Student Name:** Maheshagouda N Patil
+
+**Dataset Name:** Telco Customer Churn
+
+**Course/Batch:** Artificial Intelligence ,Batch October
+
+**Kaggle Link:** [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+---
 ## 1. Project Overview
 
 This project focuses on predicting customer churn in a telecommunications company using Machine Learning.
